@@ -1,16 +1,26 @@
-### Hi there 👋
+<header>
+<h2><img class="emoji" alt="wave" height="30" width="30" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
+Olá, me chamo Igor,
+<br>Atualmente sou estudante de desenvolvimento web na Trybe!</h2>
+</header>
 
-<!--
-**igorsilvaj/igorsilvaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<section id="contact">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+</section>
 
-Here are some ideas to get you started:
+<section id="skills">
+<h3>Skills</h3>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
+</section>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<section id="stats">
+<a href="http://www.github.com/igorsilvaj"><img src="https://github-readme-stats.vercel.app/api?username=igorsilvaj&hide_rank=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="igorsilvaj's GitHub stats" /></a><br>
+<a href="http://www.github.com/igorsilvaj"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=igorsilvaj&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/igorsilvaj" align="left"><img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilvaj&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/igorsilvaj"><img src="https://activity-graph.herokuapp.com/graph?username=igorsilvaj&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</section>
