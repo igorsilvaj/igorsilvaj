@@ -1,6 +1,6 @@
 <header>
-<h2><img class="emoji" alt="wave" height="30" width="30" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
-Olá, me chamo Igor,
+<h2>
+Olá, me chamo Igor,  <img class="emoji" alt="wave" height="30" width="30" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
 <br>Atualmente sou estudante de desenvolvimento web na Trybe!</h2>
 </header>
 
