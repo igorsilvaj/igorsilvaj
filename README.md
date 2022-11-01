@@ -23,5 +23,5 @@ Olá, me chamo Igor,  <img class="emoji" alt="wave" height="30" width="30" src="
 <a href="http://www.github.com/igorsilvaj"><img src="https://github-readme-stats.vercel.app/api?username=igorsilvaj&hide_rank=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="igorsilvaj's GitHub stats" /></a><br>
 <a href="http://www.github.com/igorsilvaj"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=igorsilvaj&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/igorsilvaj" align="left"><img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilvaj&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://wakatime.com/@igorsilvaj" align="left"><img width="49.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=igorsilvaj"/></a>
 </section>
