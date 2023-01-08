@@ -22,8 +22,8 @@ Olá, me chamo Igor,  <img class="emoji" alt="wave" height="30" width="30" src="
 
 <br>
 <section id="stats">
-<a href="http://www.github.com/igorsilvaj"><img src="https://github-readme-stats.vercel.app/api?username=igorsilvaj&hide_rank=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="igorsilvaj's GitHub stats" /></a><br>
-<a href="http://www.github.com/igorsilvaj"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=igorsilvaj&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><br>
-<a href="https://github.com/igorsilvaj" align="left"><img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilvaj&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><br>
+<a href="http://www.github.com/igorsilvaj"><img width="500px" src="https://github-readme-stats.vercel.app/api?username=igorsilvaj&hide_rank=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=false&include_all_commits=false" alt="igorsilvaj's GitHub stats" /></a></br>
+<a href="http://www.github.com/igorsilvaj"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=igorsilvaj&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></br>
+<a href="https://github.com/igorsilvaj" align="left"><img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsilvaj&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></br></br>
 <a href="https://wakatime.com/@78a12e60-4e9f-4e06-9999-4974370fba54"><img src="https://wakatime.com/badge/user/78a12e60-4e9f-4e06-9999-4974370fba54.svg" alt="Total time coded since Sep 26 2022" /></a>
 </section>
